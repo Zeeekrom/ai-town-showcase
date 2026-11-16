@@ -1,0 +1,28 @@
+Copyright (c) 2025-2026 AI Town. All rights reserved.
+
+No licence is granted to copy, modify, republish or distribute the contents of
+this repository, in whole or in part, without the written permission of the
+copyright holder. This does not limit what copyright law already allows, such
+as fair dealing for research, study, criticism, review or news reporting.
+Sharing links is welcome.
+
+Third-party material keeps its own licence:
+
+- Generative Agents (https://github.com/joonspk-research/generative_agents),
+  Copyright 2023 Joon Sung Park, licensed under the Apache License, Version 2.0
+  (https://www.apache.org/licenses/LICENSE-2.0). AI Town adapts this code: the
+  simulation framework, the agent architecture and the browser front end with
+  replay come from it. No source code is included in this repository.
+
+- The town map, interior and character art seen in the screenshots, screen
+  capture and poster come from the Generative Agents repository, which credits
+  them to PixyMoon (background art), LimeZu (furniture and interior design) and
+  ぴぽ / pipohi (character design). They keep their creators' rights and terms
+  and are not covered by this notice.
+
+- A community Chinese-language adaptation of Generative Agents, which added a
+  Chinese interface and support for local language models. It keeps the
+  licence chosen by its authors.
+
+- Python, Django and Phaser, named in the README, are not included in this
+  repository and keep their own licences.
